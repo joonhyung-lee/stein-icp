@@ -1,3 +1,9 @@
+# Test on MuJoCo Engine
+![icp](/img/icp.png)
+![icp_2](/img/icp_2.png)
+![icp_3](/img/icp_3.png)
+
+
 # Introdction
 
 This code provides a Python implementation of Stein ICP presented in the paper:
